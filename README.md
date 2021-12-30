@@ -1,5 +1,4 @@
 # Weather CLI
-____
 ## Getting Started
 ### Installation
 
