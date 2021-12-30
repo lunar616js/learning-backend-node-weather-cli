@@ -1,0 +1,25 @@
+{
+  "name": "lunar616-learning-backend-node-weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "weather.js",
+  "bin": {
+    "weather": "weather.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node weather.js"
+  },
+  "author": "lunar616",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lunar616js/learning-backend-node-weather-cli.git"
+  },
+  "dependencies": {
+    "axios": "0.24.0",
+    "chalk": "5.0.0",
+    "dedent-js": "1.0.1",
+    "node-emoji": "1.11.0"
+  }
+}
