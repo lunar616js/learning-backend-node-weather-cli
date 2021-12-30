@@ -3,5 +3,5 @@
 ### Installation
 
 ```console
-npm install dayjs --save
+npm install lunar616-learning-backend-node-weather-cli --save
 ```
